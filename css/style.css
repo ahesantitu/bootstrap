@@ -1,0 +1,20 @@
+body{
+	background: black;
+}
+.main-header{
+	background: gray;
+}
+
+.main-header h1{
+	font-size: 30px;
+	text-align: center;
+	color:#fff;
+}
+
+.service{
+	background: blue;
+	text-align: center;
+	}
+.service h2{
+	color:yellow;
+}
